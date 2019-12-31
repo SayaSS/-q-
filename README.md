@@ -22,7 +22,7 @@
 ```ps1
 git clone https://github.com/SayaSS/coolq-cqhttp-ocr.git
 cd coolq-cqhttp-ocr
-npm install//安装依赖
+npm install
 ```
 
 ③请进入ocr.js按照注释来配置 
