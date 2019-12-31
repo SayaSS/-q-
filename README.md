@@ -16,14 +16,17 @@
 ## 4、百度文字识别
 请前往[百度AI开放平台](https://ai.baidu.com/ai-doc/OCR/zk3h7xz52)注册账号并获取Access Token
 ## 5、具体操作
-①确保准备好以上内容\n
+①确保准备好以上内容
+
 ②安装
 ```ps1
 git clone https://github.com/SayaSS/coolq-cqhttp-ocr.git
 cd coolq-cqhttp-ocr
 npm install//安装依赖
 ```
-③请进入ocr.js按照注释来配置\n
+
+③请进入ocr.js按照注释来配置 
+
 ④运行
 ```ps1
 node ocr
