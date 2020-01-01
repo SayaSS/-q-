@@ -9,11 +9,11 @@
 本插件依赖[酷Q机器人运作](https://cqp.cc/)
 使用前请先安装酷q
 ## 2、coolq-http-api
-本插件依赖[coolq-http-api](https://github.com/richardchien/coolq-http-api)运作
-
-前往下载最新的[coolqhttpapi.cpk](https://github.com/richardchien/coolq-http-api/releases)并安装
+本插件依赖[coolq-http-api](https://github.com/richardchien/coolq-http-api)运作,前往下载最新的[coolqhttpapi.cpk](https://github.com/richardchien/coolq-http-api/releases)并安装
 
 配置插件请参考[插件使用文档](https://cqhttp.cc/docs/4.13/#/)
+
+或者参考以下配置方式
 ```ps1
 打开酷Q目录里的data\app\io.github.richardchien.coolqhttpapi\${对应Q号}.ini
 ```
