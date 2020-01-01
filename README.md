@@ -9,7 +9,7 @@
 本插件依赖[酷Q机器人运作](https://cqp.cc/)
 使用前请先安装酷q
 ## 2、coolq-http-api
-本插件依赖[coolq-http-api](https://github.com/richardchien/coolq-http-api)以及[cqhttp-node-sdk](https://github.com/richardchien/cqhttp-node-sdk)运作
+本插件依赖[coolq-http-api](https://github.com/richardchien/coolq-http-api)运作
 配置插件请参考[插件使用文档](https://github.com/richardchien/cqhttp-node-sdk)
 ## 3、Node.js
 需要[nodejs](https://nodejs.org/en/)作为运行环境
