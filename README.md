@@ -10,7 +10,17 @@
 使用前请先安装酷q
 ## 2、coolq-http-api
 本插件依赖[coolq-http-api](https://github.com/richardchien/coolq-http-api)运作
-配置插件请参考[插件使用文档](https://github.com/richardchien/cqhttp-node-sdk)
+
+前往下载最新的[coolqhttpapi.cpk](https://github.com/richardchien/coolq-http-api/releases)并安装
+
+配置插件请参考[插件使用文档](https://cqhttp.cc/docs/4.13/#/)
+```ps1
+打开酷Q目录里的data\app\io.github.richardchien.coolqhttpapi\${对应Q号}.ini
+```
+![配置1](https://pic.downk.cc/item/5e0c1a8476085c32892e3524.jpg)
+![配置2](https://pic.downk.cc/item/5e0c1bbf76085c32892e6556.jpg)
+![配置3](https://pic.downk.cc/item/5e0c1bd976085c32892e696c.jpg)
+
 ## 3、Node.js
 需要[nodejs](https://nodejs.org/en/)作为运行环境
 ## 4、百度文字识别
